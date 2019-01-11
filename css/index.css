@@ -169,17 +169,16 @@ header nav {
   justify-content: space-around;
   align-items: flex-end;
   font-size: 13px;
-
 }
 
-    header nav a {
-        text-decoration: none;
-        color: black
+header nav a {
+  text-decoration: none;
+  color: black;
 }
 
-    #img-home-top {
-        margin:  30px 0px
-    }
+#img-home-top {
+  margin: 30px 0px;
+}
 
 .top-content {
   display: flex;
@@ -203,6 +202,46 @@ header nav {
 .middle-content h2 {
   padding: 0 2%;
   margin-bottom: 0;
+}
+
+#box1 {
+  background-color: teal;
+}
+
+#box2 {
+  background-color: gold;
+}
+
+#box3 {
+  background-color: cadetblue;
+}
+
+#box4 {
+  background-color: coral;
+}
+
+#box5 {
+  background-color: crimson;
+}
+
+#box6 {
+  background-color: forestgreen;
+}
+
+#box7 {
+  background-color: darkorchid;
+}
+
+#box8 {
+  background-color: hotpink;
+}
+
+#box9 {
+  background-color: indigo;
+}
+
+#box10 {
+  background-color: dodgerblue;
 }
 
 .middle-content .boxes {
